@@ -1,0 +1,12 @@
+com\assessment\userauth\config\JwtTokenUtil.class
+com\assessment\userauth\model\UserDTO.class
+com\assessment\userauth\service\JwtUserDetailsService.class
+com\assessment\userauth\config\WebSecurityConfig.class
+com\assessment\userauth\controller\JwtAuthenticationController.class
+com\assessment\userauth\UserAccountApplication.class
+com\assessment\userauth\config\JwtRequestFilter.class
+com\assessment\userauth\config\JwtAuthenticationEntryPoint.class
+com\assessment\userauth\model\JwtRequest.class
+com\assessment\userauth\model\JwtResponse.class
+com\assessment\userauth\repository\UserRepository.class
+com\assessment\userauth\model\User.class
